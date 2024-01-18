@@ -1,5 +1,4 @@
 # Bill-Creator
-# Bill Management App
 
 This simple Go application allows users to create bills, add items, specify tips, and save the bill details to a text file.
 
